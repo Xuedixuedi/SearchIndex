@@ -1,0 +1,8 @@
+.gradle
+.idea/
+!.idea/icon*.png
+*.iml
+build/
+lucene-8.11.2/
+out/
+json-20210307.jar
